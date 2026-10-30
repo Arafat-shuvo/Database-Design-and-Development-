@@ -1,5 +1,5 @@
 
-#Database Design and Development (SQL Server)
+Database Design and Development (SQL Server)
 
 📌 Overview
 
